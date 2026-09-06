@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hagar Atallah 👋</h1>
+<h1 align="center">Hi, I'm Hagar Atallah </h1>
 <h3 align="center">AI Prototyping × Data Engineering × Computer Vision</h3>
 
 <p align="center">
