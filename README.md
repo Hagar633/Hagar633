@@ -129,9 +129,4 @@ Oct 2020 – Jul 2023 · GPA: 3.9/4.0
 - 📧 s-hagar.atallah@zewailcity.edu.eg
 - 🐙 [github.com/Hagar633](https://github.com/Hagar633)
 
----
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hagar633&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hagar's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagar633&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
