@@ -1,202 +1,199 @@
-<h1 align="center">Hi, I'm Hagar Atallah 👋</h1>
-<h3 align="center">AI Prototyping × Data Engineering × Computer Vision</h3>
+<!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Building+AI-powered+pipelines;Data+Engineering+%7C+Kafka+%C2%B7+Spark+%C2%B7+Trino+%C2%B7+NiFi;MILP+Optimization+%C2%B7+Computer+Vision+%C2%B7+LLM+Integration;Turning+requirements+into+working+products" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hagar%20Atallah&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Prototyping%20%C2%B7%20Data%20Engineering%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60" alt="header" width="100%"/>
 
-<p align="center">
-  <a href="mailto:s-hagar.atallah@zewailcity.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hagar633"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+**I build AI-powered pipelines, and the data infrastructure behind them.**
 
----
+<a href="mailto:s-hagar.atallah@zewailcity.edu.eg"><img src="https://img.shields.io/badge/-Email-14B8A6?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hagar633"><img src="https://img.shields.io/badge/-GitHub-1F2937?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Hagar633&label=Profile+views&color=7C3AED&style=flat-square"/>
 
-## 🚀 About Me
+</div>
 
-I'm a **Communication and Computer Engineering** student at **Zewail City of Science and Technology** (CGPA **3.9/4.0**, Fourth Year), building AI-powered pipelines, rapid prototypes, and full-stack tools that turn requirements into working products. I move across the stack: integrating LLM APIs into multimodal pipelines, building optimization and ML solvers, and working on the data infrastructure that feeds these systems.
+<br/>
 
-- 🔭 Currently a **Data Engineering Intern at Orange Egypt**
-- 🌾 Recently built a **MILP crop-mix optimizer** with the AgriTwin internship program
-- 🧠 Background spanning computer vision, optimization (MILP), LLM integration, and embedded AI
-- 🎓 B.Sc. Communication and Computer Engineering @ Zewail City (2023 – Present)
-- 🎯 Interested in AI prototyping, data engineering, and applied computer vision roles
+<!-- AT A GLANCE -->
+<table align="center">
+  <tr>
+    <td align="center"><b>3.9 / 4.0</b><br/><sub>CGPA, Zewail City</sub></td>
+    <td align="center"><b>92.55%</b><br/><sub>flag classification accuracy</sub></td>
+    <td align="center"><b>12,000+</b><br/><sub>images, 249 classes</sub></td>
+    <td align="center"><b>300+</b><br/><sub>video clips processed</sub></td>
+    <td align="center"><b>30+</b><br/><sub>students mentored</sub></td>
+  </tr>
+</table>
 
-## 🎯 Current Focus
+<br/>
 
-- 🗄️ **Data Engineering:** ETL/ELT pipeline design, data warehousing, and lakehouse architectures using Kafka, Trino, NiFi, and Spark
-- 🤖 **AI Prototyping:** LLM API integration (Gemini), multimodal pipelines, rapid POC development
-- 📐 **Optimization:** MILP-based solvers for real-world resource allocation problems
-- 👁️ **Computer Vision:** detection, segmentation, and pose estimation pipelines
+## `whoami`
 
----
+```python
+class Hagar:
+    studying  = "B.Sc. Communication & Computer Engineering @ Zewail City (2023 - present, 4th year)"
+    right_now = "Data Engineering Intern @ Orange Egypt"
+    recently  = "MILP crop-mix optimizer for the AgriTwin internship program"
+    stack     = ["Kafka", "Spark", "Trino", "NiFi", "PyTorch", "OpenCV", "Gemini API"]
+    focus     = ["ETL/ELT & lakehouse design", "MILP optimization", "multimodal LLM pipelines", "computer vision"]
 
-## 💼 Experience
+    def mission(self):
+        return "turn requirements into working products"
+```
 
-### 🗄️ Data Engineering Intern — Orange Egypt *(Current)*
+<br/>
+
+## Experience
+
+| | Role | When |
+|---|---|---|
+| 🟠 | **Data Engineering Intern**, Orange Egypt | Current |
+| 🌱 | **AI Prototyping Intern**, AgriTwin Summer Internship Program | Jul – Aug 2026 |
+| 🎓 | **Junior Teaching Assistant**, Digital Signal Processing | Feb – May 2026 |
+| 👁️ | **AI Engineering Intern**, Plaibook-AI | Aug 2025 – Jan 2026 |
+| 🌐 | **Web Development Intern**, FARMAWORLD | Dec 2024 – Feb 2025 |
+
+<details>
+<summary><b>Orange Egypt</b> · Data Engineering Intern</summary>
+<br/>
+
 - Learning and applying the full ETL/ELT lifecycle for data pipeline design
 - Working with data warehousing and lakehouse architectures
 - Using **Kafka** for stream processing, **NiFi** for data flow orchestration, **Trino** for distributed querying, and **Spark** for large-scale data processing
 
-### 🌾 AI Prototyping Intern — AgriTwin Summer Internship Program *(Jul 2026 – Aug 2026)*
+</details>
+
+<details>
+<summary><b>AgriTwin</b> · AI Prototyping Intern</summary>
+<br/>
+
 - Implemented the Crop Mix Model as a working **MILP optimizer in Python**, translating field area, water-budget, and imagery-informed yield estimates into a crop-mix recommendation
-- Designed the solver to surface a clear explanation of the binding constraint alongside its recommendation, and rendered outputs directly on the shared **Farm Twin Core** dashboard as a season plan rather than a standalone spreadsheet
-- Collaborated across a multi-track program, consuming another track's water-budget output as a direct input, with hands-on experience integrating components into a shared product core
+- Designed the solver to explain its binding constraint alongside each recommendation, and rendered outputs on the shared **Farm Twin Core** dashboard as a season plan rather than a standalone spreadsheet
+- Consumed another track's water-budget output as a direct input, integrating components into a shared product core
 
-### 👁️ AI Engineering Intern — Plaibook-AI *(Aug 2025 – Jan 2026)*
+</details>
+
+<details>
+<summary><b>Plaibook-AI</b> · AI Engineering Intern</summary>
+<br/>
+
 - Designed and implemented computer vision pipelines integrating **4 AI models** for depth estimation, pose estimation, semantic segmentation, and audio transcription
-- Evaluated MediaPipe and YOLO pose estimation frameworks, comparing accuracy, inference speed, and deployment efficiency to inform build-vs-buy and design trade-off decisions
-- Processed **300+ video clips** using DepthPro, SegFormer (ADE20K), and Decord to build efficient preprocessing and feature extraction workflows
-- Documented pipeline architecture, model evaluation results, and design decisions for engineering collaboration and design review
+- Evaluated MediaPipe and YOLO pose estimation, comparing accuracy, inference speed, and deployment efficiency to inform build-vs-buy decisions
+- Processed **300+ video clips** using DepthPro, SegFormer (ADE20K), and Decord
+- Documented pipeline architecture, model evaluation results, and design decisions for design review
 
-### 👩‍🏫 Junior Teaching Assistant — Digital Signal Processing *(Feb 2026 – May 2026)*
-- Guided **30+ undergraduate students** in implementing and debugging signal processing algorithms in MATLAB, translating conceptual questions into working code through structured lab sessions and code reviews
+</details>
 
-### 🌐 Web Development Intern — FARMAWORLD *(Dec 2024 – Feb 2025)*
+<details>
+<summary><b>Zewail City</b> · Junior Teaching Assistant, DSP</summary>
+<br/>
+
+- Guided **30+ undergraduate students** in implementing and debugging signal processing algorithms in MATLAB, through structured lab sessions and code reviews
+
+</details>
+
+<details>
+<summary><b>FARMAWORLD</b> · Web Development Intern</summary>
+<br/>
+
 - Developed and maintained a full-stack web application integrating front-end, back-end, and database systems
-- Collaborated directly with clients to gather requirements and translate them into secure, working features across multiple project modules
+- Worked directly with clients to turn requirements into secure, working features across multiple modules
 
----
+</details>
 
-## 🛠️ Tech Stack
+<br/>
 
-**AI Prototyping & LLMs**
+## Featured Projects
 
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-444?style=for-the-badge)
-![MILP](https://img.shields.io/badge/MILP_Optimization-0A66C2?style=for-the-badge)
-![Multimodal](https://img.shields.io/badge/Multimodal_Pipelines-444?style=for-the-badge)
-![Rapid Prototyping](https://img.shields.io/badge/Rapid_Prototyping-444?style=for-the-badge)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Data Engineering**
+### 🌾 AgriTwin Crop Mix Optimizer
+MILP land-allocation optimizer under land, rotation, water, demand, labor and soil constraints, with a **CVaR** risk-adjusted variant. Explains the binding constraint behind every recommendation and renders a season plan on the Farm Twin Core dashboard. Includes cost/revenue projection, multi-season rotation planning, scenario comparison, and a generated business-plan document.
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=for-the-badge&logo=apachenifi&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-444?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-444?style=for-the-badge)
-![Lakehouse](https://img.shields.io/badge/Lakehouse_Architecture-444?style=for-the-badge)
+`Python` `MILP` `CVaR` `LLM Integration`
 
-**Programming**
+</td>
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚁 Drone Flag Detection & Classification
+Modular **ROS2** pipeline for autonomous UAV missions. YOLO detects flags, a ConvNeXt+MLP classifies them (**92.55%** accuracy on 12,000+ images, 249 countries). Runs onboard a Raspberry Pi 5 with live GPS, altitude, battery and position telemetry via MAVROS.
 
-**Machine Learning & Computer Vision**
+`ROS2` `YOLO` `ConvNeXt` `MAVROS` `Raspberry Pi 5`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![FaceNet](https://img.shields.io/badge/FaceNet-444?style=for-the-badge)
-![SegFormer](https://img.shields.io/badge/SegFormer-444?style=for-the-badge)
-![DepthPro](https://img.shields.io/badge/DepthPro-444?style=for-the-badge)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-*Also: Transfer Learning · Feature Engineering · Hyperparameter Tuning · Cross-Validation · Model Evaluation · Object Detection · Semantic Segmentation · Pose Estimation*
+### 🏦 Embedded AI Bank Security System
+Real-time intrusion detection and face-recognition access control across **5+ hardware modules**, containerized with Docker. FaceNet embedding comparison drives automated responses: door locks, intruder capture, and thermal sensing.
 
-**Product & Collaboration**
+`FaceNet` `Docker` `Raspberry Pi` `Embedded Systems`
 
-`Requirements Gathering` `User Research` `Cross-Functional Collaboration` `Design Review` `Technical Documentation` `Full-Stack Development (Flask, Databases)`
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🌾 AgriTwin Crop Mix Optimizer & Business Planning Layer
-A mixed-integer linear programming optimizer that recommends land allocation per crop under real-world constraints (land availability, rotation rules, water budget, market demand, labor, and soil suitability), maximizing expected profit with a risk-adjusted **CVaR** objective variant. The solver surfaces an LLM-generated explanation of the binding constraint behind each recommendation and renders outputs as a season plan on the shared Farm Twin Core dashboard.
-
-Built out the surrounding business-planning layer: cost/revenue projection per crop per field, a multi-season crop rotation planner, side-by-side scenario comparison views, and a generated business-plan document from a live crop-mix recommendation. Developed as part of a multi-track internship program, integrating outputs from other tracks (e.g., water-budget data) as live inputs.
-
-**Tech:** `Python` `MILP Optimization` `CVaR` `LLM Integration`
-[🔗 View Repository](https://github.com/Hagar633/REPO-NAME)
-
-### 🚁 Autonomous Drone Flag Detection & Classification System
-A modular ROS2 pipeline for autonomous UAV missions: streams camera data, runs YOLO for flag detection, and classifies with a ConvNeXt+MLP model trained on **12,000+ images across 249 country flags**, reaching **92.55% classification accuracy**. The inference pipeline runs on a Raspberry Pi 5 for real-time preprocessing and onboard classification, with live telemetry (GPS, altitude, battery, position) published via MAVROS.
-
-**Tech:** `ROS2` `YOLO` `ConvNeXt` `MAVROS` `Raspberry Pi 5`
-[🔗 View Repository](https://github.com/Hagar633/REPO-NAME)
-
-### 🏦 Real-Time Embedded AI Bank Security System
-An AI-driven security system integrating **5+ hardware modules** for real-time intrusion detection and automated face-recognition access control, containerized with Docker for reproducible deployment. Built a FaceNet-based recognition pipeline using facial embedding comparison, with automated response logic including door locks, intruder capture, and thermal sensing after unauthorized access.
-
-**Tech:** `FaceNet` `Docker` `Raspberry Pi` `Embedded Systems`
-[🔗 View Repository](https://github.com/Hagar633/REPO-NAME)
+</td>
+<td width="50%" valign="top">
 
 ### ⚽ Football Player Performance Analysis
-A computer vision pipeline extracting player stability, symmetry, and movement metrics from football match footage. Integrated the Gemini LLM API to generate audio transcription and narrative context, combining it with visual feature extraction into a single multimodal analysis prototype. Rapidly prototyped across multiple pose-estimation and segmentation models to land on the best accuracy-speed trade-off.
+Computer vision pipeline extracting stability, symmetry and movement metrics from match footage. Gemini adds audio transcription and narrative context, fused with visual features into one multimodal prototype, after benchmarking several pose and segmentation models for the best speed-accuracy trade-off.
 
-**Tech:** `OpenCV` `Pose Estimation` `Segmentation` `Gemini`
-[🔗 View Repository](https://github.com/Hagar633/REPO-NAME)
+`OpenCV` `Pose Estimation` `Segmentation` `Gemini`
 
-### 🎓 Smart Student Performance Prediction System
-Compared **7 machine learning models** on **20,000 student records** to predict scores, grades, and pass/fail outcomes. Built a full preprocessing pipeline (feature scaling, categorical encoding, outlier handling, SMOTE for class imbalance), with Linear Regression (R² ≈ 0.78) and SVR (R² ≈ 0.75) performing best under cross-validation.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Tech:** `Scikit-learn` `SMOTE` `Cross-Validation`
-[🔗 View Repository](https://github.com/Hagar633/REPO-NAME)
+### 🎓 Smart Student Performance Prediction
+Compared **7 ML models** on **20,000 student records** to predict scores, grades and pass/fail. Full preprocessing pipeline (scaling, encoding, outlier handling, SMOTE). Linear Regression (R² ≈ 0.78) and SVR (R² ≈ 0.75) performed best under cross-validation.
 
----
+`Scikit-learn` `SMOTE` `Cross-Validation`
 
-## 🎓 Education
+</td>
+</tr>
+</table>
 
-**Zewail City of Science and Technology** — B.Sc. Communication and Computer Engineering
-Sep 2023 – Present (Fourth Year) · CGPA: 3.9/4.0
+<sub>🔗 Repos: add links to each project here, e.g. `[AgriTwin](https://github.com/Hagar633/REPO-NAME)`</sub>
 
-**Gharbiya STEM School**
-Oct 2020 – Jul 2023 · GPA: 3.9/4.0
+<br/>
 
-## 📚 Certifications
+## Toolbox
 
-- Machine Learning Specialization — DeepLearning.AI & Stanford University (Coursera)
-- Deep Learning Specialization — DeepLearning.AI (Coursera)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=py,cpp,matlab,postgres,pytorch,tensorflow,keras,sklearn,opencv,ros&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=kafka,spark,flask,docker,linux,git,github,raspberrypi&perline=10" />
 
-## 📊 GitHub Statistics
+</div>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hagar633&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hagar633&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+| Area | Skills |
+|---|---|
+| **Data Engineering** | Kafka · Trino · NiFi · Spark · ETL/ELT · Data Warehousing · Lakehouse Architecture |
+| **AI & LLMs** | Gemini API integration · Agentic Workflows · Multimodal Pipelines · Rapid Prototyping · POC Development · MILP Optimization · Statistics |
+| **Computer Vision** | OpenCV · YOLO · MediaPipe · FaceNet · SegFormer · DepthPro · Decord · Detection · Segmentation · Pose Estimation |
+| **Machine Learning** | PyTorch · TensorFlow · Keras · Scikit-learn · Transfer Learning · Feature Engineering · Hyperparameter Tuning · Cross-Validation |
+| **Product & Collaboration** | Requirements Gathering · User Research · Cross-Functional Collaboration · Design Review · Technical Documentation · Full-Stack (Flask, Databases) |
+| **Also** | Simulink · Git · Docker · Linux |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hagar633&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
-## 📈 Contribution Activity
+## Education & Certifications
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hagar633&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+- **Zewail City of Science and Technology**, B.Sc. Communication and Computer Engineering · Sep 2023 – Present · CGPA 3.9/4.0
+- **Gharbiya STEM School** · Oct 2020 – Jul 2023 · GPA 3.9/4.0
+- Machine Learning Specialization, DeepLearning.AI & Stanford (Coursera)
+- Deep Learning Specialization, DeepLearning.AI (Coursera)
 
-<!-- Optional: contribution snake. Requires the Platane/snk GitHub Action in a repo named Hagar633/Hagar633 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hagar633/Hagar633/output/github-snake.svg" alt="Contribution Snake" />
-</p>
+<br/>
 
----
+## Activity
 
-## 📫 Contact Me
+<div align="center">
 
-- 📧 **Email:** s-hagar.atallah@zewailcity.edu.eg
-- 💼 **LinkedIn:** [your-name](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- 💻 **GitHub:** [Hagar633](https://github.com/Hagar633)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hagar633&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hagar633&theme=radical&hide_border=true" />
 
-<p align="center">
-  Thanks for visiting my profile! ✨<br/>
-  <img src="https://komarev.com/ghpvc/?username=Hagar633&color=2F81F7&style=flat" alt="Profile Views" />
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%"/>
