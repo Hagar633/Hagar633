@@ -27,19 +27,17 @@
 
 <br/>
 
-## `whoami`
+## About
 
-```python
-class Hagar:
-    studying  = "B.Sc. Communication & Computer Engineering @ Zewail City (2023 - present, 4th year)"
-    right_now = "Data Engineering Intern @ Orange Egypt"
-    recently  = "MILP crop-mix optimizer for the AgriTwin internship program"
-    stack     = ["Kafka", "Spark", "Trino", "NiFi", "PyTorch", "OpenCV", "Gemini API"]
-    focus     = ["ETL/ELT & lakehouse design", "MILP optimization", "multimodal LLM pipelines", "computer vision"]
+I'm a fourth-year Communication and Computer Engineering student at Zewail City of Science and Technology. I like building AI systems end to end: the models, and the data pipelines that keep them fed.
 
-    def mission(self):
-        return "turn requirements into working products"
-```
+Right now I'm a **Data Engineering Intern at Orange Egypt**, working with Kafka, NiFi, Trino and Spark. Before that I built a **MILP crop-mix optimizer** for the AgriTwin internship program and computer vision pipelines at Plaibook-AI.
+
+**What I'm focused on**
+- ETL/ELT pipelines, data warehousing and lakehouse architectures
+- LLM API integration and multimodal prototypes (Gemini)
+- MILP optimization for real-world resource allocation
+- Computer vision: detection, segmentation, pose estimation
 
 <br/>
 
@@ -103,61 +101,6 @@ class Hagar:
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 AgriTwin Crop Mix Optimizer
-MILP land-allocation optimizer under land, rotation, water, demand, labor and soil constraints, with a **CVaR** risk-adjusted variant. Explains the binding constraint behind every recommendation and renders a season plan on the Farm Twin Core dashboard. Includes cost/revenue projection, multi-season rotation planning, scenario comparison, and a generated business-plan document.
-
-`Python` `MILP` `CVaR` `LLM Integration`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚁 Drone Flag Detection & Classification
-Modular **ROS2** pipeline for autonomous UAV missions. YOLO detects flags, a ConvNeXt+MLP classifies them (**92.55%** accuracy on 12,000+ images, 249 countries). Runs onboard a Raspberry Pi 5 with live GPS, altitude, battery and position telemetry via MAVROS.
-
-`ROS2` `YOLO` `ConvNeXt` `MAVROS` `Raspberry Pi 5`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Embedded AI Bank Security System
-Real-time intrusion detection and face-recognition access control across **5+ hardware modules**, containerized with Docker. FaceNet embedding comparison drives automated responses: door locks, intruder capture, and thermal sensing.
-
-`FaceNet` `Docker` `Raspberry Pi` `Embedded Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ Football Player Performance Analysis
-Computer vision pipeline extracting stability, symmetry and movement metrics from match footage. Gemini adds audio transcription and narrative context, fused with visual features into one multimodal prototype, after benchmarking several pose and segmentation models for the best speed-accuracy trade-off.
-
-`OpenCV` `Pose Estimation` `Segmentation` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎓 Smart Student Performance Prediction
-Compared **7 ML models** on **20,000 student records** to predict scores, grades and pass/fail. Full preprocessing pipeline (scaling, encoding, outlier handling, SMOTE). Linear Regression (R² ≈ 0.78) and SVR (R² ≈ 0.75) performed best under cross-validation.
-
-`Scikit-learn` `SMOTE` `Cross-Validation`
-
-</td>
-</tr>
-</table>
-
-<sub>🔗 Repos: add links to each project here, e.g. `[AgriTwin](https://github.com/Hagar633/REPO-NAME)`</sub>
-
-<br/>
-
 ## Toolbox
 
 <div align="center">
@@ -195,5 +138,7 @@ Compared **7 ML models** on **20,000 student records** to predict scores, grades
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hagar633&theme=radical&hide_border=true" />
 
 </div>
+
+<div align="center"><sub>My projects are pinned just below ↓</sub></div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%"/>
