@@ -6,7 +6,7 @@
 **I build AI-powered pipelines, and the data infrastructure behind them.**
 
 <a href="mailto:s-hagar.atallah@zewailcity.edu.eg"><img src="https://img.shields.io/badge/-Email-14B8A6?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/-LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hagar-atallah-3105b5312/"><img src="https://img.shields.io/badge/-LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Hagar633"><img src="https://img.shields.io/badge/-GitHub-1F2937?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Hagar633&label=Profile+views&color=7C3AED&style=flat-square"/>
 
